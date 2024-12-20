@@ -19,7 +19,7 @@ The analysis is divided into 7 key sections to ensure thorough exploration of th
   - Identification of null values in `Product_Category_2` and `Product_Category_3`.
 - **Resolution**:
   - Dropped  only `Product_Category_3`to avoid data loss.
-  - handl missing value in column`Product_Category_2` through this we will get both way of handling missing value and get a comprehensive solution
+  - Handling missing value in column `Product_Category_2` through this we will get both way of handling missing value and get a comprehensive solution.
 
 ### 2. Analyzing Columns
 - Used `unique()` and `nunique()` functions to identify unique values in each column.
