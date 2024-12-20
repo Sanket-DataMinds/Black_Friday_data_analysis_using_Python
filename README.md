@@ -58,6 +58,14 @@ The analysis is divided into 7 key sections to ensure thorough exploration of th
   - Countplots created using Seaborn to identify trends in the combined data.
 
 ---
-
-## Questions for Discussion
-1. Why did we choose to drop `Product_Category_2` and `Product_Category_3` instead of imput
+## Questions for Review
+1. Why were the column `Product_Category_3` dropped instead of filling the missing values?
+2. How does the purchasing trend vary between different age groups and marital statuses?
+3. Which visualization technique was most effective in highlighting key insights from the dataset?
+4. How can combining multiple columns provide better insights compared to analyzing individual columns?
+5. Which product category or occupation group showed the highest purchasing amount, and what does it suggest for marketing strategies?
+6. What insights can be derived from the difference in purchasing trends between males and females?
+7. How does the marital status of individuals impact their purchasing behavior on Black Friday?
+8. Which age group spends the most on Black Friday, and how can this insight be used for targeted marketing?
+9. What trends can be observed in the types of products purchased by different occupations?
+10. What are the possible limitations of this analysis, and how could additional data improve the insights?
